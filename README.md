@@ -62,10 +62,19 @@ Em breve scripts de instalação automática
 ---
 ## 📜 Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Distribuído sob a [Licença MIT](LICENSE).  
+Você pode usar, copiar, modificar e distribuir este software livremente, mantendo os avisos de copyright e sem garantias implícitas.
+
 
 ## 🤝 Como contribuir
 Logo logo abriremos Issues e Pull Requests para colaboração.
 
 ## 🧭 Autor
 Desenvolvido por Hipólito Luiz (PY5HC) — entusiasta de redes alternativas, rádio amadorismo, Edge Computing e comunicações resilientes.
+
+---
+> 📡 Este projeto é dedicado à preservação do espírito do rádio amadorismo, da comunicação alternativa e da inovação resiliente.  
+> Desenvolvido com paixão por **(PY5HC)**.
+
+---
+
