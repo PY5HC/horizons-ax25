@@ -1,0 +1,39 @@
+- name: bug
+  description: Relatar problemas e falhas
+  color: d73a4a
+
+- name: enhancement
+  description: Solicitação de melhoria ou nova funcionalidade
+  color: a2eeef
+
+- name: documentation
+  description: Melhorias ou atualizações na documentação
+  color: 0075ca
+
+- name: question
+  description: Dúvida ou pedido de esclarecimento
+  color: d876e3
+
+- name: help wanted
+  description: Precisamos de ajuda nesta tarefa
+  color: fbca04
+
+- name: good first issue
+  description: Ideal para quem quer começar a contribuir
+  color: 7057ff
+
+- name: wip
+  description: Trabalho em andamento (Work In Progress)
+  color: f9d0c4
+
+- name: blocked
+  description: Esta tarefa está bloqueada
+  color: 000000
+
+- name: priority: high
+  description: Alta prioridade
+  color: b60205
+
+- name: priority: low
+  description: Baixa prioridade
+  color: c5def5
